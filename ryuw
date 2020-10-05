@@ -1,1 +1,7 @@
+#Returns the current working directory.
+os.getcwd()   
 
+python
+
+Return information identifying the current operating system.
+os.uname()   
