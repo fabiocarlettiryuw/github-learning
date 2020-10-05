@@ -1,0 +1,9 @@
+#!/usr/bin/python
+
+import os
+
+#Returns the current working directory.
+os.getcwd()
+
+Return information identifying the current operating system.
+os.uname() 
